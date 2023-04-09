@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-
             MInstrument[] instruments =
             {
                 new Guitar("Guitar",6,"Black","Wood"),
